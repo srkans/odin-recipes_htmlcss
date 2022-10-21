@@ -4,8 +4,29 @@
  font-family: sans-serif;
 }
 
+.quiche-picture {
+    padding: 6em ;
+    border: 10px;
+    margin: 10px;
+    margin-left: 200px;
+    height: 900px;
+    width: 600px;
+    box-sizing: border-box;
+
+}
 
 .menu-picture {
     height: 100px;
-    width: 120px; 
+    width: 120px;    
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+    margin-left: 200px;
+}
+
+.ingredients {
+
+    border: 2em;
+    padding: 2em;
+    margin: 2em; 
 }
